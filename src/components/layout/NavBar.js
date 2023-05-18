@@ -7,7 +7,7 @@ import styles from './NavBar.module.css'
 
 function NavBar() {
     return (
-        <nav class={styles.navBar}>
+        <nav className={styles.navBar}>
                 <Container>
                     <Link to='/'><img src={logo} alt='Costs' /></Link>
                     <ul className={styles.list}>
