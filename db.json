@@ -1,26 +1,22 @@
 {
   "projects": [
     {
-      "name": "teste",
-      "budget": "5000",
+      "name": "Projeto Final",
+      "budget": "30000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 5000,
+      "services": [
+        {
+          "name": "Desenvolvedor",
+          "cost": "5000",
+          "Description": "Criar o sistema",
+          "id": "92be0860-86ef-4217-9c1e-8f38bbefa02c"
+        }
+      ],
       "id": 1
-    },
-    {
-      "name": "teste",
-      "budget": "5000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
     }
   ],
   "categories": [
