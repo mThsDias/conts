@@ -12,3 +12,7 @@
 <p>Por fim, o recurso de adicionar outro projeto permite que o usuário insira informações sobre um novo projeto, fornecendo os detalhes necessários e salvando-o no banco de dados para inclusão na lista de projetos existentes.</p>
 
 <p>O objetivo do projeto "Costs" é fornecer aos usuários uma ferramenta simples e eficiente para gerenciar seus projetos, armazenando informações essenciais e permitindo a interação com os dados de forma intuitiva.</p>
+
+![](https://cdn.discordapp.com/attachments/1073687277982728286/1131025805233889280/image.png)
+![](https://cdn.discordapp.com/attachments/1073687277982728286/1131025874163077211/image.png)
+![](https://cdn.discordapp.com/attachments/1073687277982728286/1131026155772854364/image.png)
