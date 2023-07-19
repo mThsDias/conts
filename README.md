@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+<h1>Costs</h1>
+<p>O projeto "Costs" é um gerenciador de projetos desenvolvido por mim. Ele permite que os usuários armazenem informações importantes sobre seus projetos, como nome, orçamento e categoria. Essas informações são armazenadas em um banco de dados para fácil acesso e organização.</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>A interface do projeto oferece diversas funcionalidades. Ao adicionar um novo projeto, o usuário pode inserir o nome do projeto, definir um orçamento e selecionar uma categoria que melhor se adequa a ele. Essas informações são salvas no banco de dados para referência futura.</p>
 
-## Available Scripts
+<p>Além disso, o projeto "Costs" oferece uma seção chamada "Meus Projetos", onde o usuário pode visualizar todos os projetos registrados. Nessa área, é possível realizar ações como editar, excluir ou adicionar novos projetos.</p>
 
-In the project directory, you can run:
+<p>A função de edição permite que o usuário faça alterações nos detalhes do projeto, como atualizar o nome, modificar o orçamento ou alterar a categoria. Essa funcionalidade é útil para manter as informações dos projetos atualizadas.</p>
 
-### `npm start`
+<p>A opção de exclusão permite que o usuário remova um projeto do sistema. Ao selecionar essa opção, o projeto selecionado é excluído permanentemente do banco de dados.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>Por fim, o recurso de adicionar outro projeto permite que o usuário insira informações sobre um novo projeto, fornecendo os detalhes necessários e salvando-o no banco de dados para inclusão na lista de projetos existentes.</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p>O objetivo do projeto "Costs" é fornecer aos usuários uma ferramenta simples e eficiente para gerenciar seus projetos, armazenando informações essenciais e permitindo a interação com os dados de forma intuitiva.</p>
